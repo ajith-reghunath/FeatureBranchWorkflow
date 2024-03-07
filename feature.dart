@@ -1,1 +1,2 @@
-String feature1Version = 'version 2';
+
+String feature1Version = 'version 1';
